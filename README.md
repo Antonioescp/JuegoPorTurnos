@@ -11,8 +11,8 @@ El jugador puede:
   
 Solo hay dos posibles monstruos
   Zombie y araña pueden:
-  Atacar
-  stats aleatorios
-  spawn aleatorio
+  Atacar,
+  stats aleatorios,
+  spawn aleatorio.
   
 Combates infinitos hasta perder los puntos de vida
