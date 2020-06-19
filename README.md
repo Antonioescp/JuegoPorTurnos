@@ -3,11 +3,11 @@ Juego por turnos en Ruby
 
 # Descripcion
 El jugador puede:
-  -Causar daño
-  -Usar magia (que cura)
-  -Ataque basico
-  -Subir nivel (50 pts)
-  -Morir
+  -Causar daño.
+  -Usar magia (que cura).
+  -Ataque basico.
+  -Subir nivel (50 pts).
+  -Morir.
   
 Solo hay dos posibles monstruos
   Zombie y araña pueden:
